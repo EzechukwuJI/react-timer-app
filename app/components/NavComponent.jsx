@@ -49,7 +49,8 @@ var NavComponent = () => {
       </div>
       <div className="top-bar-right">
         <ul className="menu">
-          <li>Created by <a href="/" target="_blank">James</a></li>
+          <li className="menu-text">Created by</li>
+          <li><a href="/" target="_blank">James</a></li>
         </ul>
       </div>
     </div>
