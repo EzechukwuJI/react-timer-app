@@ -1,0 +1,13 @@
+$theme-color: #000000;
+$theme-font-size: 14px;
+$text-color: #b0c0d0;
+
+
+.nav-header {
+  max-height: 30px;;
+}
+
+.nav-inner {
+  background-color: $theme-color;
+  color: $text-color;
+}
