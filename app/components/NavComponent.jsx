@@ -41,7 +41,7 @@ var NavComponent = () => {
             <IndexLink to="/timer" activeClassName="active-link">Timer</IndexLink>
           </li>
           <li>
-            <Link to="/countdown" activeClassName="active-link" activeStyle="{font-weight: bold}">
+            <Link to="/countdown" activeClassName="active-link">
               Countdown Timer
             </Link>
           </li>
